@@ -1,0 +1,9 @@
+# ignores all files and folders
+/*
+
+!/.gitignore
+
+# ignores everything in /config except user* files
+!/config
+/config/*
+!/config/user*
